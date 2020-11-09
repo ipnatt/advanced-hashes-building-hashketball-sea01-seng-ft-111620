@@ -61,4 +61,7 @@ def game_hash =
       }
     ]
   },
-  
+  :away_team => {
+    :away_name => "Charlotte Hornets",
+    
+  }
