@@ -7,7 +7,8 @@ def game_hash =
         {
           :name => "Alan Anderson",
           :number => "0",
-          :shoe
+          :shoe_size => "16",
+          :points
         }
         ]
       
