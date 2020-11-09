@@ -61,4 +61,3 @@ def game_hash =
         }
       ]
     }
-  }
