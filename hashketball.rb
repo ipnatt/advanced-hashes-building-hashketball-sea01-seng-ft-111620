@@ -27,15 +27,15 @@ def game_hash =
           :slam_dunks => "7"
         },
         {
-          :name => "Alan Anderson",
-          :number => "0",
-          :shoe_size => "16",
-          :points => "22"
-          :rebounds => "12"
-          :assists => "12"
-          :steals => "3"
-          :blocks => "1"
-          :slam_dunks => "1"
+          :name => "Brook Lopez",
+          :number => "11",
+          :shoe_size => "17",
+          :points => "17",
+          :rebounds => "19",
+          :assists => "10",
+          :steals => "3",
+          :blocks => "1",
+          :slam_dunks => "15"
         },
         {
           :name => "Alan Anderson",
