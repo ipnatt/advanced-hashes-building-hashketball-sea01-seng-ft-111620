@@ -5,7 +5,7 @@ def game_hash =
       :team_colors => ["Black", "White"],
       :team_players => [
         {
-          
+          :
         }
         ]
       
