@@ -74,6 +74,29 @@ def game_hash =
       :assists => "1",
       :steals => "2",
       :blocks => "7",
+      :slam_dunks => "2"
+      },
+      {
+      :name => "Bismack Biyombo",
+      :number => "0",
+      :shoe_size => "16",
+      :points => "12",
+      :rebounds => "4",
+      :assists => "7",
+      :steals => "22",
+      :blocks => "15",
+      :slam_dunks => "10"
+      },
+      {
+      :name => "DeSagna Diop",
+      :number => "31",
+      :shoe_size => "15",
+      :points => "19",
+      :rebounds => "2",
+      :assists => "2",
+      :steals => "4",
+      :blocks => "11",
       :slam_dunks => "1"
-      }]
+      }
+      ]
   }
