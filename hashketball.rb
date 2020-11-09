@@ -2,10 +2,10 @@ def game_hash
   {
   :home_team => {
     :home_name => "Brooklyn Nets",
-    :team_colors => [Black, White],
+    :team_colors => ["Black, White"],
     :team_players => [
       {
-      :name => Alan Anderson,
+      :name => "Alan Anderson",
       :number => 0,
       :shoe_size => 16,
       :points => 22
@@ -16,7 +16,7 @@ def game_hash
       :slam_dunks => 1
       },
       {
-      :name => Reggie Evans,
+      :name => "Reggie Evans",
       :number => 30,
       :shoe_size => 14,
       :points => 12,
@@ -27,7 +27,7 @@ def game_hash
       :slam_dunks => 7
       },
       {
-      :name => Brook Lopez,
+      :name => "Brook Lopez",
       :number => 11,
       :shoe_size => 17,
       :points => 17,
@@ -38,7 +38,7 @@ def game_hash
       :slam_dunks => 15
       },
       {
-      :name => Mason Plumlee,
+      :name => "Mason Plumlee",
       :number => 1,
       :shoe_size => 19,
       :points => 26,
@@ -49,7 +49,7 @@ def game_hash
       :slam_dunks => 5
       },
       {
-      :name => Jason Terry,
+      :name => "Jason Terry",
       :number => 31,
       :shoe_size => 15,
       :points => 19,
@@ -62,11 +62,11 @@ def game_hash
     ]
   },
   :away_team => {
-    :away_name => Charlotte Hornets,
-    :team_colors => [Turquoise, Purple],
+    :away_name => "Charlotte Hornets",
+    :team_colors => ["Turquoise", "Purple"],
     :team_players => [
       {
-      :name => Jeff Adrien,
+      :name => "Jeff Adrien",
       :number => 4,
       :shoe_size => 18,
       :points => 10,
@@ -77,7 +77,7 @@ def game_hash
       :slam_dunks => 2
       },
       {
-      :name => Bismack Biyombo,
+      :name => "Bismack Biyombo",
       :number => 0,
       :shoe_size => 16,
       :points => 12,
@@ -88,7 +88,7 @@ def game_hash
       :slam_dunks => 10
       },
       {
-      :name => DeSagna Diop,
+      :name => "DeSagna Diop",
       :number => 2,
       :shoe_size => 14,
       :points => 24,
@@ -99,7 +99,7 @@ def game_hash
       :slam_dunks => 5
       },
       {
-      :name => Ben Gordon,
+      :name => "Ben Gordon",
       :number => 8,
       :shoe_size => 15,
       :points => 33,
@@ -110,7 +110,7 @@ def game_hash
       :slam_dunks => 0
       },
       {
-      :name => Kemba Walker,
+      :name => "Kemba Walker",
       :number => 33,
       :shoe_size => 15,
       :points => 6,
